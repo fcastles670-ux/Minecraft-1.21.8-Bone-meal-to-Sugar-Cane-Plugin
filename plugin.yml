@@ -1,0 +1,6 @@
+name: SugarCaneBoneMeal
+version: 1.0
+main: com.tasarimci.sugarcane.SugarCaneGrow
+api-version: 1.21
+author: AI_Collaborator
+description: Seker kamislarini kemik tozu ile buyutmenizi saglar.
